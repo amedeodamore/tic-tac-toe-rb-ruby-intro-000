@@ -50,8 +50,6 @@ def current_player(board)
   else
     return "O"
   end
-current_player(board)
-
 end
 
 
